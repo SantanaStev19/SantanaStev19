@@ -1,4 +1,7 @@
 # 👋 ¡Hola! Soy Steven Santana
+---
+steven.santana.s19@gmail.com
+---
 
 Soy estudiante de **Ingeniería Mecatrónica** y **Desarrollador Full Stack Junior**, enfocado en crear soluciones web escalables, limpias y orientadas a la experiencia del usuario.  
 Mi transición al mundo del desarrollo ha estado marcada por la **disciplina**, el **aprendizaje continuo** y la **aplicación práctica de tecnologías modernas**.
