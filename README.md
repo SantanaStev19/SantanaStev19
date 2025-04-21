@@ -53,9 +53,13 @@ Además, completé un **bootcamp intensivo como Full Stack Developer**, donde de
 
 **Aplicación Full Stack para gimnasio**, que incluye:
 
-- 🔐 Autenticación de usuarios
+- 🔐 Autenticación de usuarios y con terceros (OAuth)
 - 🧑‍💼 Dashboard administrativo
 - 🧵 Publicaciones y comentarios en comunidad
+- 💬 Chatbot para soporte automatizado
+- 📅 Creación y gestión de eventos
+- 🏋️ Creación de rutinas personalizadas
+- 💳 Plataforma de pagos integrada
 - 🔗 Conexión frontend-backend con Axios
 - 🧱 Arquitectura modular y mantenimiento escalable
 
